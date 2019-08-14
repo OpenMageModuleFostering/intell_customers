@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/intell_customers",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "This extension will redirect customers to your desired url.",
+    "authors": [
+    {
+        "name": "Amatya Trivedi",
+        "email": "amatya@intelligrape.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
